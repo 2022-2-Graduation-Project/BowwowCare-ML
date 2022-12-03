@@ -103,8 +103,7 @@ async def do_predict(file: UploadFile=File(...)):
     logger.info(f'results: {results}')
 
     return {
-        "error": False,
-        "results": results
+        "emotion": pred.upper()
     }
 
 
