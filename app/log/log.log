@@ -6903,3 +6903,1003 @@ KeyError: 'EFFICIENTNET_MODEL_PATH'
 [2023-03-18 15:55:34,044] INFO [30706-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
 [2023-03-18 15:55:34,078] INFO [26121-8375615744] 3 changes detected
 [2023-03-18 15:55:34,086] INFO [30706-8375615744] Application startup complete.
+[2023-03-18 16:05:05,272] INFO [30706-8375615744] API predict called
+[2023-03-18 16:05:05,536] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:05:05,536] INFO [30706-8375615744] 127.0.0.1:56342 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:05:59,740] INFO [30706-8375615744] API predict called
+[2023-03-18 16:06:00,299] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:06:00,299] INFO [30706-8375615744] 127.0.0.1:56591 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:07:16,708] INFO [30706-8375615744] API predict called
+[2023-03-18 16:07:16,983] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:07:16,983] INFO [30706-8375615744] 127.0.0.1:56933 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:07:41,711] INFO [30706-8375615744] API predict called
+[2023-03-18 16:07:41,990] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:07:41,990] INFO [30706-8375615744] 127.0.0.1:57047 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:08:22,968] INFO [30706-8375615744] API predict called
+[2023-03-18 16:08:23,358] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:08:23,358] INFO [30706-8375615744] 127.0.0.1:57226 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:08:42,778] INFO [30706-8375615744] API predict called
+[2023-03-18 16:08:43,022] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:08:43,023] INFO [30706-8375615744] 127.0.0.1:57317 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:08:52,016] INFO [30706-8375615744] API predict called
+[2023-03-18 16:08:52,286] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:08:52,286] INFO [30706-8375615744] 127.0.0.1:57361 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:08:59,847] INFO [30706-8375615744] API predict called
+[2023-03-18 16:09:00,089] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:09:00,089] INFO [30706-8375615744] 127.0.0.1:57403 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:09:09,712] INFO [30706-8375615744] API predict called
+[2023-03-18 16:09:09,936] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:09:09,937] INFO [30706-8375615744] 127.0.0.1:57447 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:09:59,783] INFO [30706-8375615744] API predict called
+[2023-03-18 16:10:00,030] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:10:00,030] INFO [30706-8375615744] 127.0.0.1:57682 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:10:21,259] INFO [30706-8375615744] API predict called
+[2023-03-18 16:10:21,533] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:10:21,533] INFO [30706-8375615744] 127.0.0.1:57774 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:10:41,904] INFO [30706-8375615744] API predict called
+[2023-03-18 16:10:42,320] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:10:42,321] INFO [30706-8375615744] 127.0.0.1:57866 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:11:51,147] INFO [30706-8375615744] API predict called
+[2023-03-18 16:11:51,433] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:11:51,434] INFO [30706-8375615744] 127.0.0.1:58162 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:15:59,935] INFO [30706-8375615744] API predict called
+[2023-03-18 16:16:00,198] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:16:00,198] INFO [30706-8375615744] 127.0.0.1:59271 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:17:21,728] INFO [30706-8375615744] API predict called
+[2023-03-18 16:17:22,011] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:17:22,011] INFO [30706-8375615744] 127.0.0.1:59612 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:18:18,664] INFO [30706-8375615744] API predict called
+[2023-03-18 16:18:18,938] INFO [30706-8375615744] results: {'angry': -3.983555, 'positive': -1.994689, 'sad': -2.018089, 'pred': 'positive'}
+[2023-03-18 16:18:18,939] INFO [30706-8375615744] 127.0.0.1:59865 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:20:37,360] INFO [30706-8375615744] API predict called
+[2023-03-18 16:20:37,611] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:20:37,611] INFO [30706-8375615744] 127.0.0.1:60463 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:21:13,622] INFO [30706-8375615744] API predict called
+[2023-03-18 16:21:13,870] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:21:13,870] INFO [30706-8375615744] 127.0.0.1:60625 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:21:38,664] INFO [30706-8375615744] API predict called
+[2023-03-18 16:21:38,958] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:21:38,960] INFO [30706-8375615744] 127.0.0.1:60754 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:25:00,840] INFO [30706-8375615744] API predict called
+[2023-03-18 16:25:01,089] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:25:01,090] INFO [30706-8375615744] 127.0.0.1:61657 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:26:00,662] INFO [30706-8375615744] API predict called
+[2023-03-18 16:26:00,957] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:26:00,957] INFO [30706-8375615744] 127.0.0.1:61917 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:26:19,626] INFO [30706-8375615744] API predict called
+[2023-03-18 16:26:19,931] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:26:19,931] INFO [30706-8375615744] 127.0.0.1:62026 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:26:46,627] INFO [30706-8375615744] API predict called
+[2023-03-18 16:26:46,915] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:26:46,922] INFO [30706-8375615744] 127.0.0.1:62154 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:26:50,764] INFO [30706-8375615744] API predict called
+[2023-03-18 16:26:51,006] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:26:51,007] INFO [30706-8375615744] 127.0.0.1:62154 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:26:52,083] INFO [30706-8375615744] API predict called
+[2023-03-18 16:26:52,379] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:26:52,380] INFO [30706-8375615744] 127.0.0.1:62154 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:27:14,751] INFO [30706-8375615744] API predict called
+[2023-03-18 16:27:14,998] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:27:14,998] INFO [30706-8375615744] 127.0.0.1:62284 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:27:21,861] INFO [30706-8375615744] API predict called
+[2023-03-18 16:27:22,107] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:27:22,107] INFO [30706-8375615744] 127.0.0.1:62323 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:27:24,098] INFO [30706-8375615744] API predict called
+[2023-03-18 16:27:24,398] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:27:24,399] INFO [30706-8375615744] 127.0.0.1:62323 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:27:41,873] INFO [30706-8375615744] API predict called
+[2023-03-18 16:27:42,168] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:27:42,169] INFO [30706-8375615744] 127.0.0.1:62416 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:28:07,637] INFO [30706-8375615744] API predict called
+[2023-03-18 16:28:07,911] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:28:07,911] INFO [30706-8375615744] 127.0.0.1:62530 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:28:27,698] INFO [30706-8375615744] API predict called
+[2023-03-18 16:28:27,985] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:28:27,986] INFO [30706-8375615744] 127.0.0.1:62618 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:29:02,660] INFO [30706-8375615744] API predict called
+[2023-03-18 16:29:02,920] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:29:02,921] INFO [30706-8375615744] 127.0.0.1:62767 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:29:28,216] INFO [30706-8375615744] API predict called
+[2023-03-18 16:29:28,578] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:29:28,578] INFO [30706-8375615744] 127.0.0.1:62880 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:34:01,595] INFO [30706-8375615744] API predict called
+[2023-03-18 16:34:01,881] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:34:01,881] INFO [30706-8375615744] 127.0.0.1:64044 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:34:43,517] INFO [30706-8375615744] API predict called
+[2023-03-18 16:34:43,994] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:34:43,995] INFO [30706-8375615744] 127.0.0.1:64240 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:35:07,947] INFO [30706-8375615744] API predict called
+[2023-03-18 16:35:08,340] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:35:08,340] INFO [30706-8375615744] 127.0.0.1:64352 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:35:22,734] INFO [30706-8375615744] API predict called
+[2023-03-18 16:35:23,020] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:35:23,020] INFO [30706-8375615744] 127.0.0.1:64419 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:35:31,147] INFO [30706-8375615744] API predict called
+[2023-03-18 16:35:31,481] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:35:31,481] INFO [30706-8375615744] 127.0.0.1:64458 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:36:20,853] INFO [30706-8375615744] API predict called
+[2023-03-18 16:36:21,097] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:36:21,097] INFO [30706-8375615744] 127.0.0.1:64667 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:36:29,227] INFO [30706-8375615744] API predict called
+[2023-03-18 16:36:29,478] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:36:29,478] INFO [30706-8375615744] 127.0.0.1:64713 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:36:35,359] INFO [30706-8375615744] API predict called
+[2023-03-18 16:36:35,579] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:36:35,580] INFO [30706-8375615744] 127.0.0.1:64744 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:37:08,500] INFO [30706-8375615744] API predict called
+[2023-03-18 16:37:08,744] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:37:08,744] INFO [30706-8375615744] 127.0.0.1:64885 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:37:18,150] INFO [30706-8375615744] API predict called
+[2023-03-18 16:37:18,399] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:37:18,399] INFO [30706-8375615744] 127.0.0.1:64928 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:37:23,421] INFO [30706-8375615744] API predict called
+[2023-03-18 16:37:23,714] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:37:23,714] INFO [30706-8375615744] 127.0.0.1:64958 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:38:58,845] INFO [30706-8375615744] API predict called
+[2023-03-18 16:38:59,107] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:38:59,108] INFO [30706-8375615744] 127.0.0.1:65374 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:39:24,393] INFO [30706-8375615744] API predict called
+[2023-03-18 16:39:24,668] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:39:24,668] INFO [30706-8375615744] 127.0.0.1:65494 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:41:07,270] INFO [30706-8375615744] API predict called
+[2023-03-18 16:41:07,555] INFO [30706-8375615744] results: {'angry': -3.500463, 'positive': -2.333818, 'sad': -1.613948, 'pred': 'sad'}
+[2023-03-18 16:41:07,556] INFO [30706-8375615744] 127.0.0.1:49710 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:41:20,995] INFO [30706-8375615744] API predict called
+[2023-03-18 16:41:21,237] INFO [30706-8375615744] results: {'angry': -2.843635, 'positive': 0.287499, 'sad': -2.203475, 'pred': 'positive'}
+[2023-03-18 16:41:21,238] INFO [30706-8375615744] 127.0.0.1:49766 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:42:03,731] INFO [30706-8375615744] API predict called
+[2023-03-18 16:42:03,980] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:42:03,981] INFO [30706-8375615744] 127.0.0.1:49986 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:43:18,125] INFO [30706-8375615744] API predict called
+[2023-03-18 16:43:18,421] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:43:18,422] INFO [30706-8375615744] 127.0.0.1:50312 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:43:54,461] INFO [30706-8375615744] API predict called
+[2023-03-18 16:43:54,752] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:43:54,752] INFO [30706-8375615744] 127.0.0.1:50466 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:44:03,296] INFO [30706-8375615744] API predict called
+[2023-03-18 16:44:03,596] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:44:03,597] INFO [30706-8375615744] 127.0.0.1:50529 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:44:22,594] INFO [30706-8375615744] API predict called
+[2023-03-18 16:44:22,891] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:44:22,892] INFO [30706-8375615744] 127.0.0.1:50613 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:44:29,358] INFO [30706-8375615744] API predict called
+[2023-03-18 16:44:29,625] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:44:29,626] INFO [30706-8375615744] 127.0.0.1:50648 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:44:50,063] INFO [30706-8375615744] API predict called
+[2023-03-18 16:44:50,345] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:44:50,345] INFO [30706-8375615744] 127.0.0.1:50736 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:44:59,424] INFO [30706-8375615744] API predict called
+[2023-03-18 16:44:59,669] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:44:59,669] INFO [30706-8375615744] 127.0.0.1:50779 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:45:04,792] INFO [30706-8375615744] API predict called
+[2023-03-18 16:45:05,065] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:45:05,066] INFO [30706-8375615744] 127.0.0.1:50813 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:45:25,603] INFO [30706-8375615744] API predict called
+[2023-03-18 16:45:25,847] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:45:25,848] INFO [30706-8375615744] 127.0.0.1:50902 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:45:32,559] INFO [30706-8375615744] API predict called
+[2023-03-18 16:45:32,865] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:45:32,865] INFO [30706-8375615744] 127.0.0.1:50936 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:45:40,042] INFO [30706-8375615744] API predict called
+[2023-03-18 16:45:40,322] INFO [30706-8375615744] results: {'angry': -1.984934, 'positive': -0.173078, 'sad': -2.887037, 'pred': 'positive'}
+[2023-03-18 16:45:40,323] INFO [30706-8375615744] 127.0.0.1:50972 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:45:50,234] INFO [30706-8375615744] API predict called
+[2023-03-18 16:45:50,474] INFO [30706-8375615744] results: {'angry': -3.135499, 'positive': -2.745886, 'sad': -2.200443, 'pred': 'sad'}
+[2023-03-18 16:45:50,474] INFO [30706-8375615744] 127.0.0.1:51014 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:46:09,553] INFO [30706-8375615744] API predict called
+[2023-03-18 16:46:09,773] INFO [30706-8375615744] results: {'angry': -3.135499, 'positive': -2.745886, 'sad': -2.200443, 'pred': 'sad'}
+[2023-03-18 16:46:09,773] INFO [30706-8375615744] 127.0.0.1:51100 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 16:56:26,917] INFO [30706-8375615744] API predict called
+[2023-03-18 16:56:27,298] INFO [30706-8375615744] results: {'angry': -3.135499, 'positive': -2.745886, 'sad': -2.200443, 'pred': 'sad'}
+[2023-03-18 16:56:27,299] INFO [30706-8375615744] 127.0.0.1:53727 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 17:08:19,545] INFO [26121-8375615744] 1 change detected
+[2023-03-18 17:08:20,312] INFO [26121-8375615744] 1 change detected
+[2023-03-18 17:15:41,050] INFO [26121-8375615744] 1 change detected
+[2023-03-18 17:15:41,380] INFO [26121-8375615744] 1 change detected
+[2023-03-18 17:36:30,751] INFO [30706-8375615744] API predict called
+[2023-03-18 17:36:31,286] INFO [30706-8375615744] results: {'angry': -3.135499, 'positive': -2.745886, 'sad': -2.200443, 'pred': 'sad'}
+[2023-03-18 17:36:31,287] INFO [30706-8375615744] 127.0.0.1:64193 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 17:36:33,776] INFO [30706-8375615744] API predict called
+[2023-03-18 17:36:34,105] INFO [30706-8375615744] results: {'angry': -3.135499, 'positive': -2.745886, 'sad': -2.200443, 'pred': 'sad'}
+[2023-03-18 17:36:34,105] INFO [30706-8375615744] 127.0.0.1:64193 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 17:57:07,427] INFO [30706-8375615744] API predict called
+[2023-03-18 17:57:07,756] INFO [30706-8375615744] results: {'angry': -3.135499, 'positive': -2.745886, 'sad': -2.200443, 'pred': 'sad'}
+[2023-03-18 17:57:07,757] INFO [30706-8375615744] 127.0.0.1:53054 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-18 18:01:45,456] INFO [30706-8375615744] API predict called
+[2023-03-18 18:01:45,741] INFO [30706-8375615744] results: {'angry': -3.135499, 'positive': -2.745886, 'sad': -2.200443, 'pred': 'sad'}
+[2023-03-18 18:01:45,741] INFO [30706-8375615744] 127.0.0.1:54257 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-20 23:53:48,475] INFO [3559-8375615744] Will watch for changes in these directories: ['/Users/seohui/github/2022-02-Graduation-Project/BowwowCare-ML/app']
+[2023-03-20 23:53:48,476] INFO [3559-8375615744] Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[2023-03-20 23:53:48,476] INFO [3559-8375615744] Started reloader process [3559] using WatchFiles
+[2023-03-20 23:53:49,800] INFO [3672-8375615744] Started server process [3672]
+[2023-03-20 23:53:49,801] INFO [3672-8375615744] Waiting for application startup.
+[2023-03-20 23:53:49,801] INFO [3672-8375615744] Running envirnoment: development
+[2023-03-20 23:53:49,801] INFO [3672-8375615744] PyTorch using device: cpu
+[2023-03-20 23:53:49,901] INFO [3672-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-03-20 23:53:49,960] INFO [3672-8375615744] Application startup complete.
+[2023-03-20 23:54:46,703] INFO [3672-8375615744] 127.0.0.1:60281 - "GET /redoc HTTP/1.1" 200
+[2023-03-20 23:54:47,036] INFO [3672-8375615744] 127.0.0.1:60281 - "GET /openapi.json HTTP/1.1" 200
+[2023-03-20 23:55:12,640] INFO [3672-8375615744] 127.0.0.1:60283 - "GET /docs HTTP/1.1" 200
+[2023-03-20 23:55:12,830] INFO [3672-8375615744] 127.0.0.1:60283 - "GET /openapi.json HTTP/1.1" 200
+[2023-03-20 23:55:27,682] INFO [3672-8375615744] API predict called
+[2023-03-20 23:55:28,132] INFO [3672-8375615744] results: {'angry': -3.326601, 'positive': -3.153043, 'sad': -1.907702, 'pred': 'sad'}
+[2023-03-20 23:55:28,133] INFO [3672-8375615744] 127.0.0.1:60390 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-20 23:55:39,304] INFO [3672-8375615744] API predict called
+[2023-03-20 23:55:53,513] INFO [3672-8375615744] results: {'angry': -3.38999, 'positive': -3.61852, 'sad': -1.724615, 'pred': 'sad'}
+[2023-03-20 23:55:53,526] INFO [3672-8375615744] 127.0.0.1:60504 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-03-20 23:56:58,975] INFO [3672-8375615744] API predict called
+[2023-03-20 23:56:59,012] INFO [3672-8375615744] 127.0.0.1:60878 - "POST /api/v1/predict HTTP/1.1" 500
+[2023-03-20 23:56:59,017] ERROR [3672-8375615744] Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/message_logger.py", line 86, in __call__
+    raise exc from None
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/applications.py", line 270, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 706, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/routing.py", line 235, in app
+    raw_response = await run_endpoint_function(
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/routing.py", line 161, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/Users/seohui/github/2022-02-Graduation-Project/BowwowCare-ML/app/main.py", line 77, in do_predict
+    y_pred = model(X)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/timm/models/efficientnet.py", line 557, in forward
+    x = self.forward_features(x)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/timm/models/efficientnet.py", line 540, in forward_features
+    x = self.conv_stem(x)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/torch/nn/modules/conv.py", line 463, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/torch/nn/modules/conv.py", line 459, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+RuntimeError: Given groups=1, weight of size [32, 3, 3, 3], expected input[1, 4, 601, 605] to have 3 channels, but got 4 channels instead
+[2023-03-21 00:00:37,368] INFO [3672-8375615744] Shutting down
+[2023-03-21 00:00:37,472] INFO [3672-8375615744] Waiting for application shutdown.
+[2023-03-21 00:00:37,474] INFO [3672-8375615744] Application shutdown complete.
+[2023-03-21 00:00:37,475] INFO [3672-8375615744] Finished server process [3672]
+[2023-03-21 00:00:37,701] INFO [3559-8375615744] Stopping reloader process [3559]
+[2023-04-12 09:20:21,123] INFO [94340-8375615744] Will watch for changes in these directories: ['/Users/seohui/github/2022-02-Graduation-Project/BowwowCare-ML/app']
+[2023-04-12 09:20:21,124] INFO [94340-8375615744] Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[2023-04-12 09:20:21,125] INFO [94340-8375615744] Started reloader process [94340] using WatchFiles
+[2023-04-12 09:20:22,408] INFO [94363-8375615744] Started server process [94363]
+[2023-04-12 09:20:22,409] INFO [94363-8375615744] Waiting for application startup.
+[2023-04-12 09:20:22,409] INFO [94363-8375615744] Running envirnoment: development
+[2023-04-12 09:20:22,409] INFO [94363-8375615744] PyTorch using device: cpu
+[2023-04-12 09:20:22,516] INFO [94363-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-12 09:20:22,572] INFO [94363-8375615744] Application startup complete.
+[2023-04-12 09:23:12,247] INFO [94363-8375615744] 127.0.0.1:65164 - "GET /docs HTTP/1.1" 200
+[2023-04-12 09:23:12,830] INFO [94363-8375615744] 127.0.0.1:65164 - "GET /openapi.json HTTP/1.1" 200
+[2023-04-12 09:23:53,731] INFO [94363-8375615744] API predict called
+[2023-04-12 09:23:54,266] INFO [94363-8375615744] results: {'angry': -2.932862, 'positive': -2.278866, 'sad': -2.815938, 'pred': 'positive'}
+[2023-04-12 09:23:54,266] INFO [94363-8375615744] 127.0.0.1:65165 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 09:24:00,784] INFO [94363-8375615744] API predict called
+[2023-04-12 09:24:12,030] INFO [94363-8375615744] results: {'angry': -1.95081, 'positive': -3.515292, 'sad': -2.430785, 'pred': 'angry'}
+[2023-04-12 09:24:12,046] INFO [94363-8375615744] 127.0.0.1:65180 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 09:28:39,218] INFO [94363-8375615744] API predict called
+[2023-04-12 09:28:46,224] INFO [94363-8375615744] results: {'angry': -2.181465, 'positive': -3.447351, 'sad': -2.324723, 'pred': 'angry'}
+[2023-04-12 09:28:46,231] INFO [94363-8375615744] 127.0.0.1:65280 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 09:32:25,007] INFO [94363-8375615744] API predict called
+[2023-04-12 09:32:31,870] INFO [94363-8375615744] results: {'angry': -2.181465, 'positive': -3.447351, 'sad': -2.324723, 'pred': 'angry'}
+[2023-04-12 09:32:31,874] INFO [94363-8375615744] 127.0.0.1:65362 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 23:37:14,187] INFO [94340-8375615744] 3 changes detected
+[2023-04-12 23:37:14,194] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-12 23:37:14,235] INFO [94363-8375615744] Shutting down
+[2023-04-12 23:37:14,339] INFO [94363-8375615744] Waiting for application shutdown.
+[2023-04-12 23:37:14,340] INFO [94363-8375615744] Application shutdown complete.
+[2023-04-12 23:37:14,341] INFO [94363-8375615744] Finished server process [94363]
+[2023-04-12 23:37:14,769] INFO [94340-8375615744] 1 change detected
+[2023-04-12 23:37:17,070] INFO [58515-8375615744] Started server process [58515]
+[2023-04-12 23:37:17,070] INFO [58515-8375615744] Waiting for application startup.
+[2023-04-12 23:37:17,070] INFO [58515-8375615744] Running envirnoment: development
+[2023-04-12 23:37:17,070] INFO [58515-8375615744] PyTorch using device: cpu
+[2023-04-12 23:37:17,139] INFO [58515-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-12 23:37:17,160] INFO [94340-8375615744] 3 changes detected
+[2023-04-12 23:37:17,179] INFO [58515-8375615744] Application startup complete.
+[2023-04-12 23:37:17,847] INFO [94340-8375615744] 3 changes detected
+[2023-04-12 23:37:17,847] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-12 23:37:17,887] INFO [58515-8375615744] Shutting down
+[2023-04-12 23:37:17,989] INFO [58515-8375615744] Waiting for application shutdown.
+[2023-04-12 23:37:17,990] INFO [58515-8375615744] Application shutdown complete.
+[2023-04-12 23:37:17,990] INFO [58515-8375615744] Finished server process [58515]
+[2023-04-12 23:37:18,291] INFO [94340-8375615744] 1 change detected
+[2023-04-12 23:37:19,065] INFO [58534-8375615744] Started server process [58534]
+[2023-04-12 23:37:19,065] INFO [58534-8375615744] Waiting for application startup.
+[2023-04-12 23:37:19,065] INFO [58534-8375615744] Running envirnoment: development
+[2023-04-12 23:37:19,065] INFO [58534-8375615744] PyTorch using device: cpu
+[2023-04-12 23:37:19,124] INFO [58534-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-12 23:37:19,150] INFO [58534-8375615744] Application startup complete.
+[2023-04-12 23:37:19,162] INFO [94340-8375615744] 3 changes detected
+[2023-04-12 23:37:24,626] INFO [94340-8375615744] 1 change detected
+[2023-04-12 23:37:24,627] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-12 23:37:24,705] INFO [58534-8375615744] Shutting down
+[2023-04-12 23:37:24,807] INFO [58534-8375615744] Waiting for application shutdown.
+[2023-04-12 23:37:24,808] INFO [58534-8375615744] Application shutdown complete.
+[2023-04-12 23:37:24,808] INFO [58534-8375615744] Finished server process [58534]
+[2023-04-12 23:37:25,085] INFO [94340-8375615744] 1 change detected
+[2023-04-12 23:37:25,821] INFO [58562-8375615744] Started server process [58562]
+[2023-04-12 23:37:25,822] INFO [58562-8375615744] Waiting for application startup.
+[2023-04-12 23:37:25,822] INFO [58562-8375615744] Running envirnoment: development
+[2023-04-12 23:37:25,822] INFO [58562-8375615744] PyTorch using device: cpu
+[2023-04-12 23:37:25,882] INFO [58562-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-12 23:37:25,904] INFO [94340-8375615744] 3 changes detected
+[2023-04-12 23:37:25,908] INFO [58562-8375615744] Application startup complete.
+[2023-04-12 23:37:46,642] INFO [58562-8375615744] 127.0.0.1:54062 - "GET /docs HTTP/1.1" 200
+[2023-04-12 23:37:46,741] INFO [58562-8375615744] 127.0.0.1:54062 - "GET /openapi.json HTTP/1.1" 200
+[2023-04-12 23:37:52,051] INFO [58562-8375615744] API predict called
+[2023-04-12 23:37:52,080] INFO [58562-8375615744] UPLOAD IMAGE!
+[2023-04-12 23:37:52,545] INFO [58562-8375615744] results: {'angry': -2.932862, 'positive': -2.278866, 'sad': -2.815938, 'pred': 'positive'}
+[2023-04-12 23:37:52,546] INFO [58562-8375615744] 127.0.0.1:54063 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 23:38:00,303] INFO [58562-8375615744] API predict called
+[2023-04-12 23:38:00,305] INFO [58562-8375615744] UPLOAD IMAGE!
+[2023-04-12 23:38:11,855] INFO [58562-8375615744] results: {'angry': -1.95081, 'positive': -3.515292, 'sad': -2.430785, 'pred': 'angry'}
+[2023-04-12 23:38:11,871] INFO [58562-8375615744] 127.0.0.1:54067 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 23:40:29,146] INFO [94340-8375615744] 1 change detected
+[2023-04-12 23:40:29,253] INFO [94340-8375615744] 3 changes detected
+[2023-04-12 23:40:29,254] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-12 23:40:29,320] INFO [58562-8375615744] Shutting down
+[2023-04-12 23:40:29,421] INFO [58562-8375615744] Waiting for application shutdown.
+[2023-04-12 23:40:29,423] INFO [58562-8375615744] Application shutdown complete.
+[2023-04-12 23:40:29,423] INFO [58562-8375615744] Finished server process [58562]
+[2023-04-12 23:40:29,736] INFO [94340-8375615744] 1 change detected
+[2023-04-12 23:40:29,898] INFO [94340-8375615744] 1 change detected
+[2023-04-12 23:40:29,898] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-12 23:40:30,864] INFO [58850-8375615744] Started server process [58850]
+[2023-04-12 23:40:30,864] INFO [58850-8375615744] Waiting for application startup.
+[2023-04-12 23:40:30,864] INFO [58850-8375615744] Running envirnoment: development
+[2023-04-12 23:40:30,864] INFO [58850-8375615744] PyTorch using device: cpu
+[2023-04-12 23:40:30,924] INFO [58850-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-12 23:40:30,962] INFO [58850-8375615744] Application startup complete.
+[2023-04-12 23:40:30,981] INFO [94340-8375615744] 3 changes detected
+[2023-04-12 23:40:32,157] INFO [94340-8375615744] 1 change detected
+[2023-04-12 23:40:32,158] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-12 23:40:32,176] INFO [58850-8375615744] Shutting down
+[2023-04-12 23:40:32,277] INFO [58850-8375615744] Waiting for application shutdown.
+[2023-04-12 23:40:32,278] INFO [58850-8375615744] Application shutdown complete.
+[2023-04-12 23:40:32,278] INFO [58850-8375615744] Finished server process [58850]
+[2023-04-12 23:40:32,590] INFO [94340-8375615744] 1 change detected
+[2023-04-12 23:40:33,350] INFO [58872-8375615744] Started server process [58872]
+[2023-04-12 23:40:33,350] INFO [58872-8375615744] Waiting for application startup.
+[2023-04-12 23:40:33,350] INFO [58872-8375615744] Running envirnoment: development
+[2023-04-12 23:40:33,350] INFO [58872-8375615744] PyTorch using device: cpu
+[2023-04-12 23:40:33,417] INFO [58872-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-12 23:40:33,453] INFO [94340-8375615744] 3 changes detected
+[2023-04-12 23:40:33,460] INFO [58872-8375615744] Application startup complete.
+[2023-04-12 23:40:38,461] INFO [58872-8375615744] 127.0.0.1:54120 - "GET /docs HTTP/1.1" 200
+[2023-04-12 23:40:38,544] INFO [58872-8375615744] 127.0.0.1:54120 - "GET /openapi.json HTTP/1.1" 200
+[2023-04-12 23:40:43,899] INFO [58872-8375615744] API predict called
+[2023-04-12 23:40:43,929] INFO [58872-8375615744] UPLOAD IMAGE!
+[2023-04-12 23:40:44,101] INFO [58872-8375615744] results: {'angry': -1.604262, 'positive': 1.486224, 'sad': -3.18006, 'pred': 'positive'}
+[2023-04-12 23:40:44,102] INFO [58872-8375615744] 127.0.0.1:54121 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 23:40:48,327] INFO [58872-8375615744] API predict called
+[2023-04-12 23:40:48,646] INFO [58872-8375615744] UPLOAD IMAGE!
+[2023-04-12 23:40:48,814] INFO [58872-8375615744] results: {'angry': -1.870136, 'positive': 3.547576, 'sad': -1.306959, 'pred': 'positive'}
+[2023-04-12 23:40:48,815] INFO [58872-8375615744] 127.0.0.1:54121 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 23:40:58,220] INFO [58872-8375615744] API predict called
+[2023-04-12 23:40:58,380] INFO [58872-8375615744] UPLOAD IMAGE!
+[2023-04-12 23:40:58,539] INFO [58872-8375615744] results: {'angry': -0.966846, 'positive': 4.668598, 'sad': 1.254235, 'pred': 'positive'}
+[2023-04-12 23:40:58,539] INFO [58872-8375615744] 127.0.0.1:54126 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 23:41:01,941] INFO [58872-8375615744] API predict called
+[2023-04-12 23:41:02,169] INFO [58872-8375615744] UPLOAD IMAGE!
+[2023-04-12 23:41:02,337] INFO [58872-8375615744] results: {'angry': -3.691561, 'positive': -1.204502, 'sad': -2.311015, 'pred': 'positive'}
+[2023-04-12 23:41:02,338] INFO [58872-8375615744] 127.0.0.1:54126 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 23:41:10,215] INFO [58872-8375615744] API predict called
+[2023-04-12 23:41:10,240] INFO [58872-8375615744] UPLOAD IMAGE!
+[2023-04-12 23:41:10,419] INFO [58872-8375615744] results: {'angry': -3.060341, 'positive': -2.252024, 'sad': -2.127136, 'pred': 'sad'}
+[2023-04-12 23:41:10,420] INFO [58872-8375615744] 127.0.0.1:54130 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 23:41:17,474] INFO [58872-8375615744] API predict called
+[2023-04-12 23:41:17,486] INFO [58872-8375615744] UPLOAD IMAGE!
+[2023-04-12 23:41:17,688] INFO [58872-8375615744] results: {'angry': -3.158295, 'positive': -2.286197, 'sad': -1.636744, 'pred': 'sad'}
+[2023-04-12 23:41:17,688] INFO [58872-8375615744] 127.0.0.1:54131 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-12 23:41:22,828] INFO [58872-8375615744] API predict called
+[2023-04-12 23:41:22,840] INFO [58872-8375615744] UPLOAD IMAGE!
+[2023-04-12 23:41:23,020] INFO [58872-8375615744] results: {'angry': -4.14397, 'positive': -2.920784, 'sad': -0.334843, 'pred': 'sad'}
+[2023-04-12 23:41:23,020] INFO [58872-8375615744] 127.0.0.1:54133 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:16:20,578] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:16:20,580] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:16:20,658] INFO [58872-8375615744] Shutting down
+[2023-04-13 00:16:20,761] INFO [58872-8375615744] Waiting for application shutdown.
+[2023-04-13 00:16:20,764] INFO [58872-8375615744] Application shutdown complete.
+[2023-04-13 00:16:20,764] INFO [58872-8375615744] Finished server process [58872]
+[2023-04-13 00:16:21,100] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:16:22,167] INFO [59904-8375615744] Started server process [59904]
+[2023-04-13 00:16:22,167] INFO [59904-8375615744] Waiting for application startup.
+[2023-04-13 00:16:22,167] INFO [59904-8375615744] Running envirnoment: development
+[2023-04-13 00:16:22,167] INFO [59904-8375615744] PyTorch using device: cpu
+[2023-04-13 00:16:22,226] INFO [59904-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:16:22,238] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:16:22,270] INFO [59904-8375615744] Application startup complete.
+[2023-04-13 00:16:23,754] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:16:23,755] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:16:23,787] INFO [59904-8375615744] Shutting down
+[2023-04-13 00:16:23,889] INFO [59904-8375615744] Waiting for application shutdown.
+[2023-04-13 00:16:23,892] INFO [59904-8375615744] Application shutdown complete.
+[2023-04-13 00:16:23,893] INFO [59904-8375615744] Finished server process [59904]
+[2023-04-13 00:16:24,185] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:16:24,917] INFO [59924-8375615744] Started server process [59924]
+[2023-04-13 00:16:24,917] INFO [59924-8375615744] Waiting for application startup.
+[2023-04-13 00:16:24,917] INFO [59924-8375615744] Running envirnoment: development
+[2023-04-13 00:16:24,917] INFO [59924-8375615744] PyTorch using device: cpu
+[2023-04-13 00:16:24,975] INFO [59924-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:16:25,002] INFO [59924-8375615744] Application startup complete.
+[2023-04-13 00:16:25,007] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:16:26,942] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:16:27,055] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:16:27,056] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:16:27,125] INFO [59924-8375615744] Shutting down
+[2023-04-13 00:16:27,227] INFO [59924-8375615744] Waiting for application shutdown.
+[2023-04-13 00:16:27,227] INFO [59924-8375615744] Application shutdown complete.
+[2023-04-13 00:16:27,227] INFO [59924-8375615744] Finished server process [59924]
+[2023-04-13 00:16:27,512] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:16:28,357] INFO [59943-8375615744] Started server process [59943]
+[2023-04-13 00:16:28,357] INFO [59943-8375615744] Waiting for application startup.
+[2023-04-13 00:16:28,357] INFO [59943-8375615744] Running envirnoment: development
+[2023-04-13 00:16:28,358] INFO [59943-8375615744] PyTorch using device: cpu
+[2023-04-13 00:16:28,421] INFO [59943-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:16:28,431] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:16:28,452] INFO [59943-8375615744] Application startup complete.
+[2023-04-13 00:19:59,268] INFO [59943-8375615744] API predict called
+[2023-04-13 00:19:59,304] INFO [59943-8375615744] UPLOAD IMAGE!
+[2023-04-13 00:19:59,485] INFO [59943-8375615744] results: {'angry': -2.963914, 'positive': -0.873692, 'sad': -2.633378, 'pred': 'positive'}
+[2023-04-13 00:19:59,485] INFO [59943-8375615744] 127.0.0.1:54401 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:25:19,797] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:25:19,800] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:25:19,813] INFO [59943-8375615744] Shutting down
+[2023-04-13 00:25:19,915] INFO [59943-8375615744] Waiting for application shutdown.
+[2023-04-13 00:25:19,916] INFO [59943-8375615744] Application shutdown complete.
+[2023-04-13 00:25:19,917] INFO [59943-8375615744] Finished server process [59943]
+[2023-04-13 00:25:20,257] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:25:21,127] INFO [60727-8375615744] Started server process [60727]
+[2023-04-13 00:25:21,127] INFO [60727-8375615744] Waiting for application startup.
+[2023-04-13 00:25:21,127] INFO [60727-8375615744] Running envirnoment: development
+[2023-04-13 00:25:21,127] INFO [60727-8375615744] PyTorch using device: cpu
+[2023-04-13 00:25:21,188] INFO [60727-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:25:21,226] INFO [60727-8375615744] Application startup complete.
+[2023-04-13 00:25:21,240] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:25:25,165] INFO [60727-8375615744] 127.0.0.1:54476 - "GET /docs HTTP/1.1" 200
+[2023-04-13 00:25:25,273] INFO [60727-8375615744] 127.0.0.1:54476 - "GET /openapi.json HTTP/1.1" 200
+[2023-04-13 00:25:30,205] INFO [60727-8375615744] API predict called
+[2023-04-13 00:25:30,232] INFO [60727-8375615744] 127.0.0.1:54476 - "POST /api/v1/predict HTTP/1.1" 500
+[2023-04-13 00:25:30,232] ERROR [60727-8375615744] Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/message_logger.py", line 86, in __call__
+    raise exc from None
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/applications.py", line 270, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 706, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/routing.py", line 235, in app
+    raw_response = await run_endpoint_function(
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/routing.py", line 161, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/Users/seohui/github/2022-02-Graduation-Project/BowwowCare-ML/app/main.py", line 69, in do_predict
+    image = image.thumbnail(786, Image.Resampling.LANCZOS)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/PIL/Image.py", line 2472, in thumbnail
+    x, y = map(math.floor, size)
+TypeError: 'int' object is not iterable
+[2023-04-13 00:26:48,956] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:26:49,063] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:26:49,064] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:26:49,146] INFO [60727-8375615744] Shutting down
+[2023-04-13 00:26:49,247] INFO [60727-8375615744] Waiting for application shutdown.
+[2023-04-13 00:26:49,247] INFO [60727-8375615744] Application shutdown complete.
+[2023-04-13 00:26:49,247] INFO [60727-8375615744] Finished server process [60727]
+[2023-04-13 00:26:49,541] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:26:50,488] INFO [60858-8375615744] Started server process [60858]
+[2023-04-13 00:26:50,488] INFO [60858-8375615744] Waiting for application startup.
+[2023-04-13 00:26:50,488] INFO [60858-8375615744] Running envirnoment: development
+[2023-04-13 00:26:50,488] INFO [60858-8375615744] PyTorch using device: cpu
+[2023-04-13 00:26:50,549] INFO [60858-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:26:50,573] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:26:50,587] INFO [60858-8375615744] Application startup complete.
+[2023-04-13 00:26:52,678] INFO [60858-8375615744] 127.0.0.1:54499 - "GET /docs HTTP/1.1" 200
+[2023-04-13 00:26:52,759] INFO [60858-8375615744] 127.0.0.1:54499 - "GET /openapi.json HTTP/1.1" 200
+[2023-04-13 00:26:57,484] INFO [60858-8375615744] API predict called
+[2023-04-13 00:26:57,510] INFO [60858-8375615744] 127.0.0.1:54499 - "POST /api/v1/predict HTTP/1.1" 500
+[2023-04-13 00:26:57,510] ERROR [60858-8375615744] Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/message_logger.py", line 86, in __call__
+    raise exc from None
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/applications.py", line 270, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 706, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/routing.py", line 235, in app
+    raw_response = await run_endpoint_function(
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/routing.py", line 161, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/Users/seohui/github/2022-02-Graduation-Project/BowwowCare-ML/app/main.py", line 69, in do_predict
+    image = image.thumbnail(786, Image.ANTIALIAS)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/PIL/Image.py", line 2472, in thumbnail
+    x, y = map(math.floor, size)
+TypeError: 'int' object is not iterable
+[2023-04-13 00:27:30,742] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:27:30,743] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:27:30,818] INFO [60858-8375615744] Shutting down
+[2023-04-13 00:27:30,919] INFO [60858-8375615744] Waiting for application shutdown.
+[2023-04-13 00:27:30,920] INFO [60858-8375615744] Application shutdown complete.
+[2023-04-13 00:27:30,920] INFO [60858-8375615744] Finished server process [60858]
+[2023-04-13 00:27:31,218] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:27:32,089] INFO [60932-8375615744] Started server process [60932]
+[2023-04-13 00:27:32,089] INFO [60932-8375615744] Waiting for application startup.
+[2023-04-13 00:27:32,089] INFO [60932-8375615744] Running envirnoment: development
+[2023-04-13 00:27:32,090] INFO [60932-8375615744] PyTorch using device: cpu
+[2023-04-13 00:27:32,150] INFO [60932-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:27:32,189] INFO [60932-8375615744] Application startup complete.
+[2023-04-13 00:27:32,199] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:27:32,840] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:27:32,842] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:27:32,897] INFO [60932-8375615744] Shutting down
+[2023-04-13 00:27:32,998] INFO [60932-8375615744] Waiting for application shutdown.
+[2023-04-13 00:27:32,999] INFO [60932-8375615744] Application shutdown complete.
+[2023-04-13 00:27:32,999] INFO [60932-8375615744] Finished server process [60932]
+[2023-04-13 00:27:33,345] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:27:34,178] INFO [60952-8375615744] Started server process [60952]
+[2023-04-13 00:27:34,179] INFO [60952-8375615744] Waiting for application startup.
+[2023-04-13 00:27:34,179] INFO [60952-8375615744] Running envirnoment: development
+[2023-04-13 00:27:34,179] INFO [60952-8375615744] PyTorch using device: cpu
+[2023-04-13 00:27:34,239] INFO [60952-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:27:34,263] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:27:34,273] INFO [60952-8375615744] Application startup complete.
+[2023-04-13 00:27:36,068] INFO [60952-8375615744] 127.0.0.1:54518 - "GET /docs HTTP/1.1" 200
+[2023-04-13 00:27:36,142] INFO [60952-8375615744] 127.0.0.1:54518 - "GET /openapi.json HTTP/1.1" 200
+[2023-04-13 00:27:41,500] INFO [60952-8375615744] API predict called
+[2023-04-13 00:27:41,531] INFO [60952-8375615744] UPLOAD IMAGE!
+[2023-04-13 00:27:41,992] INFO [60952-8375615744] results: {'angry': -2.984815, 'positive': -3.003751, 'sad': -2.4589, 'pred': 'sad'}
+[2023-04-13 00:27:41,993] INFO [60952-8375615744] 127.0.0.1:54519 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:27:46,165] INFO [60952-8375615744] API predict called
+[2023-04-13 00:27:46,197] INFO [60952-8375615744] UPLOAD IMAGE!
+[2023-04-13 00:27:46,616] INFO [60952-8375615744] results: {'angry': -2.561398, 'positive': -3.111099, 'sad': -2.735452, 'pred': 'angry'}
+[2023-04-13 00:27:46,617] INFO [60952-8375615744] 127.0.0.1:54519 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:27:50,171] INFO [60952-8375615744] API predict called
+[2023-04-13 00:27:50,201] INFO [60952-8375615744] UPLOAD IMAGE!
+[2023-04-13 00:27:50,637] INFO [60952-8375615744] results: {'angry': -2.322066, 'positive': -3.050083, 'sad': -2.082405, 'pred': 'sad'}
+[2023-04-13 00:27:50,637] INFO [60952-8375615744] 127.0.0.1:54519 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:27:54,585] INFO [60952-8375615744] API predict called
+[2023-04-13 00:27:54,607] INFO [60952-8375615744] UPLOAD IMAGE!
+[2023-04-13 00:27:55,023] INFO [60952-8375615744] results: {'angry': -2.405529, 'positive': -3.278371, 'sad': -2.781224, 'pred': 'angry'}
+[2023-04-13 00:27:55,023] INFO [60952-8375615744] 127.0.0.1:54519 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:27:59,546] INFO [60952-8375615744] API predict called
+[2023-04-13 00:27:59,937] INFO [60952-8375615744] UPLOAD IMAGE!
+[2023-04-13 00:28:00,343] INFO [60952-8375615744] results: {'angry': -2.400708, 'positive': -2.259925, 'sad': -2.256755, 'pred': 'sad'}
+[2023-04-13 00:28:00,343] INFO [60952-8375615744] 127.0.0.1:54519 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:28:05,671] INFO [60952-8375615744] API predict called
+[2023-04-13 00:28:05,695] INFO [60952-8375615744] UPLOAD IMAGE!
+[2023-04-13 00:28:06,126] INFO [60952-8375615744] results: {'angry': -2.337617, 'positive': -3.030303, 'sad': -2.954556, 'pred': 'angry'}
+[2023-04-13 00:28:06,127] INFO [60952-8375615744] 127.0.0.1:54524 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:30:06,839] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:30:06,948] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:30:06,949] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:30:06,995] INFO [60952-8375615744] Shutting down
+[2023-04-13 00:30:07,097] INFO [60952-8375615744] Waiting for application shutdown.
+[2023-04-13 00:30:07,097] INFO [60952-8375615744] Application shutdown complete.
+[2023-04-13 00:30:07,098] INFO [60952-8375615744] Finished server process [60952]
+[2023-04-13 00:30:07,386] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:30:08,042] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:30:08,042] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:30:09,201] INFO [61252-8375615744] Started server process [61252]
+[2023-04-13 00:30:09,202] INFO [61252-8375615744] Waiting for application startup.
+[2023-04-13 00:30:09,202] INFO [61252-8375615744] Running envirnoment: development
+[2023-04-13 00:30:09,202] INFO [61252-8375615744] PyTorch using device: cpu
+[2023-04-13 00:30:09,263] INFO [61252-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:30:09,287] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:30:09,311] INFO [61252-8375615744] Application startup complete.
+[2023-04-13 00:30:13,771] INFO [61252-8375615744] API predict called
+[2023-04-13 00:30:14,325] INFO [61252-8375615744] results: {'angry': -2.824469, 'positive': -2.274086, 'sad': -2.875485, 'pred': 'positive'}
+[2023-04-13 00:30:14,326] INFO [61252-8375615744] 127.0.0.1:54572 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:31:13,956] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:31:13,958] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:31:13,969] INFO [61252-8375615744] Shutting down
+[2023-04-13 00:31:14,070] INFO [61252-8375615744] Waiting for application shutdown.
+[2023-04-13 00:31:14,071] INFO [61252-8375615744] Application shutdown complete.
+[2023-04-13 00:31:14,071] INFO [61252-8375615744] Finished server process [61252]
+[2023-04-13 00:31:14,498] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:31:15,580] INFO [61366-8375615744] Started server process [61366]
+[2023-04-13 00:31:15,580] INFO [61366-8375615744] Waiting for application startup.
+[2023-04-13 00:31:15,580] INFO [61366-8375615744] Running envirnoment: development
+[2023-04-13 00:31:15,580] INFO [61366-8375615744] PyTorch using device: cpu
+[2023-04-13 00:31:15,652] INFO [61366-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:31:15,694] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:31:15,696] INFO [61366-8375615744] Application startup complete.
+[2023-04-13 00:31:34,855] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:31:34,961] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:31:34,962] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:31:35,001] INFO [61366-8375615744] Shutting down
+[2023-04-13 00:31:35,103] INFO [61366-8375615744] Waiting for application shutdown.
+[2023-04-13 00:31:35,104] INFO [61366-8375615744] Application shutdown complete.
+[2023-04-13 00:31:35,104] INFO [61366-8375615744] Finished server process [61366]
+[2023-04-13 00:31:35,416] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:31:36,495] INFO [61424-8375615744] Started server process [61424]
+[2023-04-13 00:31:36,495] INFO [61424-8375615744] Waiting for application startup.
+[2023-04-13 00:31:36,495] INFO [61424-8375615744] Running envirnoment: development
+[2023-04-13 00:31:36,495] INFO [61424-8375615744] PyTorch using device: cpu
+[2023-04-13 00:31:36,555] INFO [61424-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:31:36,600] INFO [61424-8375615744] Application startup complete.
+[2023-04-13 00:31:36,605] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:31:39,940] INFO [61424-8375615744] 127.0.0.1:54602 - "GET /docs HTTP/1.1" 200
+[2023-04-13 00:31:40,009] INFO [61424-8375615744] 127.0.0.1:54602 - "GET /openapi.json HTTP/1.1" 200
+[2023-04-13 00:31:44,534] INFO [61424-8375615744] API predict called
+[2023-04-13 00:31:44,551] INFO [61424-8375615744] 127.0.0.1:54602 - "POST /api/v1/predict HTTP/1.1" 500
+[2023-04-13 00:31:44,551] ERROR [61424-8375615744] Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/message_logger.py", line 86, in __call__
+    raise exc from None
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/uvicorn/middleware/message_logger.py", line 82, in __call__
+    await self.app(scope, inner_receive, inner_send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/applications.py", line 270, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/cors.py", line 92, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/cors.py", line 147, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 706, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/routing.py", line 235, in app
+    raw_response = await run_endpoint_function(
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/fastapi/routing.py", line 161, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/Users/seohui/github/2022-02-Graduation-Project/BowwowCare-ML/app/main.py", line 68, in do_predict
+    logger.info('Image Size:', image.shape)
+  File "/Users/seohui/miniforge3/envs/pytorch/lib/python3.10/site-packages/PIL/Image.py", line 517, in __getattr__
+    raise AttributeError(name)
+AttributeError: shape
+[2023-04-13 00:32:17,204] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:32:17,310] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:32:17,311] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:32:17,344] INFO [61424-8375615744] Shutting down
+[2023-04-13 00:32:17,446] INFO [61424-8375615744] Waiting for application shutdown.
+[2023-04-13 00:32:17,447] INFO [61424-8375615744] Application shutdown complete.
+[2023-04-13 00:32:17,448] INFO [61424-8375615744] Finished server process [61424]
+[2023-04-13 00:32:17,753] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:32:18,620] INFO [61507-8375615744] Started server process [61507]
+[2023-04-13 00:32:18,620] INFO [61507-8375615744] Waiting for application startup.
+[2023-04-13 00:32:18,620] INFO [61507-8375615744] Running envirnoment: development
+[2023-04-13 00:32:18,620] INFO [61507-8375615744] PyTorch using device: cpu
+[2023-04-13 00:32:18,679] INFO [61507-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:32:18,687] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:32:18,731] INFO [61507-8375615744] Application startup complete.
+[2023-04-13 00:32:37,175] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:32:37,177] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:32:37,221] INFO [61507-8375615744] Shutting down
+[2023-04-13 00:32:37,323] INFO [61507-8375615744] Waiting for application shutdown.
+[2023-04-13 00:32:37,324] INFO [61507-8375615744] Application shutdown complete.
+[2023-04-13 00:32:37,324] INFO [61507-8375615744] Finished server process [61507]
+[2023-04-13 00:32:37,647] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:32:38,963] INFO [61585-8375615744] Started server process [61585]
+[2023-04-13 00:32:38,964] INFO [61585-8375615744] Waiting for application startup.
+[2023-04-13 00:32:38,964] INFO [61585-8375615744] Running envirnoment: development
+[2023-04-13 00:32:38,964] INFO [61585-8375615744] PyTorch using device: cpu
+[2023-04-13 00:32:39,025] INFO [61585-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:32:39,032] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:32:39,086] INFO [61585-8375615744] Application startup complete.
+[2023-04-13 00:32:43,453] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:32:43,453] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:32:43,530] INFO [61585-8375615744] Shutting down
+[2023-04-13 00:32:43,631] INFO [61585-8375615744] Waiting for application shutdown.
+[2023-04-13 00:32:43,632] INFO [61585-8375615744] Application shutdown complete.
+[2023-04-13 00:32:43,632] INFO [61585-8375615744] Finished server process [61585]
+[2023-04-13 00:32:44,081] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:32:45,230] INFO [61611-8375615744] Started server process [61611]
+[2023-04-13 00:32:45,231] INFO [61611-8375615744] Waiting for application startup.
+[2023-04-13 00:32:45,231] INFO [61611-8375615744] Running envirnoment: development
+[2023-04-13 00:32:45,231] INFO [61611-8375615744] PyTorch using device: cpu
+[2023-04-13 00:32:45,298] INFO [61611-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:32:45,333] INFO [61611-8375615744] Application startup complete.
+[2023-04-13 00:32:45,333] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:32:45,762] INFO [61611-8375615744] 127.0.0.1:54648 - "GET /docs HTTP/1.1" 200
+[2023-04-13 00:32:45,846] INFO [61611-8375615744] 127.0.0.1:54648 - "GET /openapi.json HTTP/1.1" 200
+[2023-04-13 00:32:49,950] INFO [61611-8375615744] API predict called
+[2023-04-13 00:32:50,464] INFO [61611-8375615744] results: {'angry': -2.824469, 'positive': -2.274086, 'sad': -2.875485, 'pred': 'positive'}
+[2023-04-13 00:32:50,465] INFO [61611-8375615744] 127.0.0.1:54648 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:33:09,430] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:33:09,431] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:33:09,461] INFO [61611-8375615744] Shutting down
+[2023-04-13 00:33:09,562] INFO [61611-8375615744] Waiting for application shutdown.
+[2023-04-13 00:33:09,563] INFO [61611-8375615744] Application shutdown complete.
+[2023-04-13 00:33:09,564] INFO [61611-8375615744] Finished server process [61611]
+[2023-04-13 00:33:10,011] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:33:11,174] INFO [61666-8375615744] Started server process [61666]
+[2023-04-13 00:33:11,174] INFO [61666-8375615744] Waiting for application startup.
+[2023-04-13 00:33:11,174] INFO [61666-8375615744] Running envirnoment: development
+[2023-04-13 00:33:11,174] INFO [61666-8375615744] PyTorch using device: cpu
+[2023-04-13 00:33:11,237] INFO [61666-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:33:11,256] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:33:11,278] INFO [61666-8375615744] Application startup complete.
+[2023-04-13 00:33:15,450] INFO [61666-8375615744] API predict called
+[2023-04-13 00:33:15,965] INFO [61666-8375615744] results: {'angry': -2.984815, 'positive': -3.003751, 'sad': -2.4589, 'pred': 'sad'}
+[2023-04-13 00:33:15,965] INFO [61666-8375615744] 127.0.0.1:54659 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:33:23,052] INFO [61666-8375615744] API predict called
+[2023-04-13 00:33:23,525] INFO [61666-8375615744] results: {'angry': -2.561398, 'positive': -3.111099, 'sad': -2.735452, 'pred': 'angry'}
+[2023-04-13 00:33:23,525] INFO [61666-8375615744] 127.0.0.1:54660 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:33:30,982] INFO [61666-8375615744] API predict called
+[2023-04-13 00:33:31,478] INFO [61666-8375615744] results: {'angry': -2.322066, 'positive': -3.050083, 'sad': -2.082405, 'pred': 'sad'}
+[2023-04-13 00:33:31,478] INFO [61666-8375615744] 127.0.0.1:54662 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:33:35,098] INFO [61666-8375615744] API predict called
+[2023-04-13 00:33:35,565] INFO [61666-8375615744] results: {'angry': -2.337617, 'positive': -3.030303, 'sad': -2.954556, 'pred': 'angry'}
+[2023-04-13 00:33:35,565] INFO [61666-8375615744] 127.0.0.1:54662 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:33:44,120] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:33:44,227] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:33:44,228] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:33:44,246] INFO [61666-8375615744] Shutting down
+[2023-04-13 00:33:44,347] INFO [61666-8375615744] Waiting for application shutdown.
+[2023-04-13 00:33:44,348] INFO [61666-8375615744] Application shutdown complete.
+[2023-04-13 00:33:44,348] INFO [61666-8375615744] Finished server process [61666]
+[2023-04-13 00:33:44,663] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:33:45,668] INFO [61734-8375615744] Started server process [61734]
+[2023-04-13 00:33:45,669] INFO [61734-8375615744] Waiting for application startup.
+[2023-04-13 00:33:45,669] INFO [61734-8375615744] Running envirnoment: development
+[2023-04-13 00:33:45,669] INFO [61734-8375615744] PyTorch using device: cpu
+[2023-04-13 00:33:45,731] INFO [61734-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:33:45,759] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:33:45,768] INFO [61734-8375615744] Application startup complete.
+[2023-04-13 00:34:10,942] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:34:11,049] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:34:11,050] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:34:11,129] INFO [61734-8375615744] Shutting down
+[2023-04-13 00:34:11,231] INFO [61734-8375615744] Waiting for application shutdown.
+[2023-04-13 00:34:11,232] INFO [61734-8375615744] Application shutdown complete.
+[2023-04-13 00:34:11,233] INFO [61734-8375615744] Finished server process [61734]
+[2023-04-13 00:34:11,567] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:34:12,755] INFO [61790-8375615744] Started server process [61790]
+[2023-04-13 00:34:12,755] INFO [61790-8375615744] Waiting for application startup.
+[2023-04-13 00:34:12,755] INFO [61790-8375615744] Running envirnoment: development
+[2023-04-13 00:34:12,755] INFO [61790-8375615744] PyTorch using device: cpu
+[2023-04-13 00:34:12,817] INFO [61790-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:34:12,821] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:34:12,861] INFO [61790-8375615744] Application startup complete.
+[2023-04-13 00:34:15,148] INFO [61790-8375615744] API predict called
+[2023-04-13 00:34:15,679] INFO [61790-8375615744] results: {'angry': -2.360025, 'positive': -3.413866, 'sad': -2.058767, 'pred': 'sad'}
+[2023-04-13 00:34:15,679] INFO [61790-8375615744] 127.0.0.1:54682 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:34:19,502] INFO [61790-8375615744] API predict called
+[2023-04-13 00:34:20,004] INFO [61790-8375615744] results: {'angry': -2.279555, 'positive': -3.225405, 'sad': -3.058299, 'pred': 'angry'}
+[2023-04-13 00:34:20,004] INFO [61790-8375615744] 127.0.0.1:54682 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:35:47,796] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:35:47,901] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:35:47,902] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:35:47,934] INFO [61790-8375615744] Shutting down
+[2023-04-13 00:35:48,036] INFO [61790-8375615744] Waiting for application shutdown.
+[2023-04-13 00:35:48,038] INFO [61790-8375615744] Application shutdown complete.
+[2023-04-13 00:35:48,039] INFO [61790-8375615744] Finished server process [61790]
+[2023-04-13 00:35:48,452] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:35:49,470] INFO [61966-8375615744] Started server process [61966]
+[2023-04-13 00:35:49,470] INFO [61966-8375615744] Waiting for application startup.
+[2023-04-13 00:35:49,470] INFO [61966-8375615744] Running envirnoment: development
+[2023-04-13 00:35:49,470] INFO [61966-8375615744] PyTorch using device: cpu
+[2023-04-13 00:35:49,530] INFO [61966-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:35:49,572] INFO [61966-8375615744] Application startup complete.
+[2023-04-13 00:35:49,587] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:35:52,563] INFO [61966-8375615744] API predict called
+[2023-04-13 00:35:52,854] INFO [61966-8375615744] results: {'angry': -2.896299, 'positive': -2.307189, 'sad': -2.978589, 'pred': 'positive'}
+[2023-04-13 00:35:52,854] INFO [61966-8375615744] 127.0.0.1:54746 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:35:56,777] INFO [61966-8375615744] API predict called
+[2023-04-13 00:35:57,076] INFO [61966-8375615744] results: {'angry': -3.077399, 'positive': -1.953504, 'sad': -2.677349, 'pred': 'positive'}
+[2023-04-13 00:35:57,077] INFO [61966-8375615744] 127.0.0.1:54746 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:36:04,328] INFO [61966-8375615744] API predict called
+[2023-04-13 00:36:04,590] INFO [61966-8375615744] results: {'angry': -3.611508, 'positive': -2.712624, 'sad': -1.571226, 'pred': 'sad'}
+[2023-04-13 00:36:04,590] INFO [61966-8375615744] 127.0.0.1:54750 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:36:48,422] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:36:48,526] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:36:48,528] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:36:48,563] INFO [61966-8375615744] Shutting down
+[2023-04-13 00:36:48,664] INFO [61966-8375615744] Waiting for application shutdown.
+[2023-04-13 00:36:48,665] INFO [61966-8375615744] Application shutdown complete.
+[2023-04-13 00:36:48,665] INFO [61966-8375615744] Finished server process [61966]
+[2023-04-13 00:36:49,111] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:36:50,082] INFO [62074-8375615744] Started server process [62074]
+[2023-04-13 00:36:50,082] INFO [62074-8375615744] Waiting for application startup.
+[2023-04-13 00:36:50,082] INFO [62074-8375615744] Running envirnoment: development
+[2023-04-13 00:36:50,082] INFO [62074-8375615744] PyTorch using device: cpu
+[2023-04-13 00:36:50,142] INFO [62074-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:36:50,151] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:36:50,211] INFO [62074-8375615744] Application startup complete.
+[2023-04-13 00:36:53,816] INFO [62074-8375615744] API predict called
+[2023-04-13 00:36:54,555] INFO [62074-8375615744] results: {'angry': -2.552766, 'positive': -2.94118, 'sad': -2.784177, 'pred': 'angry'}
+[2023-04-13 00:36:54,556] INFO [62074-8375615744] 127.0.0.1:54780 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:36:58,469] INFO [62074-8375615744] API predict called
+[2023-04-13 00:36:59,509] INFO [62074-8375615744] results: {'angry': -2.198742, 'positive': -2.495145, 'sad': -2.422303, 'pred': 'angry'}
+[2023-04-13 00:36:59,510] INFO [62074-8375615744] 127.0.0.1:54780 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:39:22,215] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:39:22,219] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:39:22,238] INFO [62074-8375615744] Shutting down
+[2023-04-13 00:39:22,340] INFO [62074-8375615744] Waiting for application shutdown.
+[2023-04-13 00:39:22,343] INFO [62074-8375615744] Application shutdown complete.
+[2023-04-13 00:39:22,344] INFO [62074-8375615744] Finished server process [62074]
+[2023-04-13 00:39:22,665] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:39:23,619] INFO [62335-8375615744] Started server process [62335]
+[2023-04-13 00:39:23,619] INFO [62335-8375615744] Waiting for application startup.
+[2023-04-13 00:39:23,619] INFO [62335-8375615744] Running envirnoment: development
+[2023-04-13 00:39:23,619] INFO [62335-8375615744] PyTorch using device: cpu
+[2023-04-13 00:39:23,678] INFO [62335-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:39:23,703] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:39:23,731] INFO [62335-8375615744] Application startup complete.
+[2023-04-13 00:40:23,146] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:40:23,254] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:40:23,256] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:40:23,267] INFO [62335-8375615744] Shutting down
+[2023-04-13 00:40:23,369] INFO [62335-8375615744] Waiting for application shutdown.
+[2023-04-13 00:40:23,369] INFO [62335-8375615744] Application shutdown complete.
+[2023-04-13 00:40:23,369] INFO [62335-8375615744] Finished server process [62335]
+[2023-04-13 00:40:23,659] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:40:24,768] INFO [62432-8375615744] Started server process [62432]
+[2023-04-13 00:40:24,768] INFO [62432-8375615744] Waiting for application startup.
+[2023-04-13 00:40:24,768] INFO [62432-8375615744] Running envirnoment: development
+[2023-04-13 00:40:24,768] INFO [62432-8375615744] PyTorch using device: cpu
+[2023-04-13 00:40:24,829] INFO [62432-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:40:24,851] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:40:24,875] INFO [62432-8375615744] Application startup complete.
+[2023-04-13 00:40:26,624] INFO [62432-8375615744] 127.0.0.1:54866 - "GET /docs HTTP/1.1" 200
+[2023-04-13 00:40:26,719] INFO [62432-8375615744] 127.0.0.1:54866 - "GET /openapi.json HTTP/1.1" 200
+[2023-04-13 00:40:31,854] INFO [62432-8375615744] API predict called
+[2023-04-13 00:40:32,714] INFO [62432-8375615744] results: {'angry': -2.419633, 'positive': -2.068127, 'sad': -2.327923, 'pred': 'positive'}
+[2023-04-13 00:40:32,715] INFO [62432-8375615744] 127.0.0.1:54867 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:40:47,714] INFO [62432-8375615744] API predict called
+[2023-04-13 00:40:48,220] INFO [62432-8375615744] results: {'angry': -2.836042, 'positive': -2.196454, 'sad': -2.912054, 'pred': 'positive'}
+[2023-04-13 00:40:48,220] INFO [62432-8375615744] 127.0.0.1:54872 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:40:53,877] INFO [62432-8375615744] API predict called
+[2023-04-13 00:40:54,303] INFO [62432-8375615744] results: {'angry': -3.012468, 'positive': -2.874779, 'sad': -2.500058, 'pred': 'sad'}
+[2023-04-13 00:40:54,304] INFO [62432-8375615744] 127.0.0.1:54873 - "POST /api/v1/predict HTTP/1.1" 200
+[2023-04-13 00:41:29,744] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:41:29,850] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:41:29,854] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:41:29,894] INFO [62432-8375615744] Shutting down
+[2023-04-13 00:41:30,000] INFO [62432-8375615744] Waiting for application shutdown.
+[2023-04-13 00:41:30,004] INFO [62432-8375615744] Application shutdown complete.
+[2023-04-13 00:41:30,005] INFO [62432-8375615744] Finished server process [62432]
+[2023-04-13 00:41:30,313] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:41:31,204] INFO [62542-8375615744] Started server process [62542]
+[2023-04-13 00:41:31,204] INFO [62542-8375615744] Waiting for application startup.
+[2023-04-13 00:41:31,204] INFO [62542-8375615744] Running envirnoment: development
+[2023-04-13 00:41:31,204] INFO [62542-8375615744] PyTorch using device: cpu
+[2023-04-13 00:41:31,264] INFO [62542-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:41:31,291] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:41:31,303] INFO [62542-8375615744] Application startup complete.
+[2023-04-13 00:42:48,126] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:42:48,128] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:42:48,141] INFO [62542-8375615744] Shutting down
+[2023-04-13 00:42:48,243] INFO [62542-8375615744] Waiting for application shutdown.
+[2023-04-13 00:42:48,244] INFO [62542-8375615744] Application shutdown complete.
+[2023-04-13 00:42:48,244] INFO [62542-8375615744] Finished server process [62542]
+[2023-04-13 00:42:48,557] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:42:49,526] INFO [62671-8375615744] Started server process [62671]
+[2023-04-13 00:42:49,526] INFO [62671-8375615744] Waiting for application startup.
+[2023-04-13 00:42:49,526] INFO [62671-8375615744] Running envirnoment: development
+[2023-04-13 00:42:49,526] INFO [62671-8375615744] PyTorch using device: cpu
+[2023-04-13 00:42:49,587] INFO [62671-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:42:49,593] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:42:49,632] INFO [62671-8375615744] Application startup complete.
+[2023-04-13 00:42:51,040] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:42:51,041] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:42:51,048] INFO [62671-8375615744] Shutting down
+[2023-04-13 00:42:51,149] INFO [62671-8375615744] Waiting for application shutdown.
+[2023-04-13 00:42:51,151] INFO [62671-8375615744] Application shutdown complete.
+[2023-04-13 00:42:51,151] INFO [62671-8375615744] Finished server process [62671]
+[2023-04-13 00:42:51,459] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:42:52,479] INFO [62690-8375615744] Started server process [62690]
+[2023-04-13 00:42:52,479] INFO [62690-8375615744] Waiting for application startup.
+[2023-04-13 00:42:52,480] INFO [62690-8375615744] Running envirnoment: development
+[2023-04-13 00:42:52,480] INFO [62690-8375615744] PyTorch using device: cpu
+[2023-04-13 00:42:52,540] INFO [62690-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:42:52,565] INFO [62690-8375615744] Application startup complete.
+[2023-04-13 00:42:52,590] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:42:58,383] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:42:58,384] WARNING [94340-8375615744] WatchFiles detected changes in 'main.py'. Reloading...
+[2023-04-13 00:42:58,424] INFO [62690-8375615744] Shutting down
+[2023-04-13 00:42:58,526] INFO [62690-8375615744] Waiting for application shutdown.
+[2023-04-13 00:42:58,527] INFO [62690-8375615744] Application shutdown complete.
+[2023-04-13 00:42:58,527] INFO [62690-8375615744] Finished server process [62690]
+[2023-04-13 00:42:58,804] INFO [94340-8375615744] 1 change detected
+[2023-04-13 00:42:59,541] INFO [62722-8375615744] Started server process [62722]
+[2023-04-13 00:42:59,541] INFO [62722-8375615744] Waiting for application startup.
+[2023-04-13 00:42:59,542] INFO [62722-8375615744] Running envirnoment: development
+[2023-04-13 00:42:59,542] INFO [62722-8375615744] PyTorch using device: cpu
+[2023-04-13 00:42:59,601] INFO [62722-8375615744] Loading pretrained weights from url (https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth)
+[2023-04-13 00:42:59,614] INFO [94340-8375615744] 3 changes detected
+[2023-04-13 00:42:59,626] INFO [62722-8375615744] Application startup complete.

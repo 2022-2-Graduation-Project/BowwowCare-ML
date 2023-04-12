@@ -65,6 +65,8 @@ async def do_predict(file: UploadFile=File(...)):
     # prepare input data
     request_object_content = await file.read()
     image = Image.open(io.BytesIO(request_object_content))
+    if image.width > 784 or image.height > 784:
+        image = image.resize((784, 784), Image.ANTIALIAS)
 
     X = transforms.ToTensor()(image).unsqueeze_(0)
 
